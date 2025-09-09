@@ -6,6 +6,6 @@ spring:
   application:
     name: water-contribution-service
   profiles:
-    active: dev
+    active: prod
 
 
