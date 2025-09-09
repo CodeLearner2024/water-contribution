@@ -1,0 +1,11 @@
+server:
+  port: 8065
+  servlet:
+    context-path: /water-contribution/api/v1
+spring:
+  application:
+    name: water-contribution-service
+  profiles:
+    active: dev
+
+
